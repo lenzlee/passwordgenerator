@@ -1,7 +1,7 @@
 # passwordgenerator
 Bootcamp Homework 3: Password Generator (Javascript)
 
-## Password Generator
+## My Password Generator
 
 In this project, we were asked to modify a starter code to create an application that generate random passwords based on the user's answers to the prompt questions. 
 
@@ -34,4 +34,10 @@ The user can click "Cancel" or "OK." Cancel will not include numbers (0-9) in th
 After all 5 questions are answered, the auto generated password will display in the generate password field. 
 
 The process repeats when the "Generate Password" button is clicked by the user.
+
+## Resources
+
+I referred to our Javascript lessons and activities for this assignment. 
+
+I also used MDN web docs for reference when using the Math.random() static method, isNaN() function, and concat() method. 
 
