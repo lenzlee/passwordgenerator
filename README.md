@@ -3,9 +3,9 @@ Bootcamp Homework 3: Password Generator (Javascript)
 
 ## My Password Generator
 
-    In this project, we were asked to modify a starter code to create an application that generate random passwords based on the user's answers to the prompt questions. 
+In this project, we were asked to modify a starter code to create an application that generate random passwords based on the user's answers to the prompt questions. 
 
-    The following are the questions asked of the user:
+The following are the questions asked of the user:
 
 <details>
 <summary>Prompt Q1: How many characters do you want the password to be?</summary>
@@ -36,9 +36,9 @@ If user input is >= 8, the user will get prompted with question 2.<br></p>
 
 <br>
 
-    After all 5 questions are answered, the auto generated password will display in the generate password field.
+After all 5 questions are answered, the auto generated password will display in the generate password field.
 
-    The process repeats when the **"Generate Password" button** is clicked by the user.
+The process repeats when the **"Generate Password" button** is clicked by the user.
 
 ## URLs Submitted
 
