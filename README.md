@@ -52,3 +52,6 @@ I referred to our Javascript lessons and activities for this assignment.
 
 I also used MDN web docs for reference when using the Math.random() static method, isNaN() function, and concat() method. 
 
+## Screenshot
+
+![Password Generator App Screenshot](./password-generator.png)
